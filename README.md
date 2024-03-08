@@ -8,3 +8,5 @@ Retail Price: Machine Learning project that predicts the best price to pay if yo
 Word Frequency: A data analysis project with use of web scraping, data cleaning, and NLP for counting the word frequency of words in a classic novel.
 
 Movie Similarity: Finding similarity between movies using plots of the movie. 
+
+Song Genre Classfier: Machine Learning Project using Naive Bayes, Logistic Regression, and Decision Tree classifiers. Built to be able to classify song genres correctly.
