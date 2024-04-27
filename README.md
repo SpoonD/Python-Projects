@@ -10,3 +10,5 @@ Word Frequency: A data analysis project with use of web scraping, data cleaning,
 Movie Similarity: Finding similarity between movies using plots of the movie. 
 
 Song Genre Classfier: Machine Learning Project using Naive Bayes, Logistic Regression, and Decision Tree classifiers. Built to be able to classify song genres correctly.
+
+Debt Analysis: Statistical project in the financial sector, models how a bank can tell if a debt is worth or not.
