@@ -12,3 +12,5 @@ Movie Similarity: Finding similarity between movies using plots of the movie.
 Song Genre Classfier: Machine Learning Project using Naive Bayes, Logistic Regression, and Decision Tree classifiers. Built to be able to classify song genres correctly.
 
 Debt Analysis: Statistical project in the financial sector, models how a bank can tell if a debt is worth or not.
+
+Top Anime: Data analysis project of top anime's of 2024, focusing on EDA and learning through visualization methods in matplotlib and seaborn. 
